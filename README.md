@@ -1,9 +1,9 @@
-# PRODIGY_WD_03 - Tic-Tac-Toe Web Application
+#  Tic-Tac-Toe Web Application
 
 ## 🎯 Task Description:
 This project is part of my Web Development Internship at **Prodigy InfoTech**.
 
-**Task 03** involves creating an interactive **Tic-Tac-Toe** game using:
+**Task ** involves creating an interactive **Tic-Tac-Toe** game using:
 
 - ✅ HTML (Structure)
 - ✅ CSS (Styling)
@@ -28,7 +28,6 @@ This project is part of my Web Development Internship at **Prodigy InfoTech**.
 ---
 
 ## 📂 Project Structure:
-PRODIGY_WD_03/
 ├── index.html # Web page layout
 ├── style.css # UI styling
 ├── script.js # Game functionality
